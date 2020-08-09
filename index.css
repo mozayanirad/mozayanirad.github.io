@@ -320,17 +320,3 @@ body
 {
    text-align: left;
 }
-body
-{
-    width: auto !important;
-}
-#container
-{
-    width: 100%;
-    height: 100%;
-}
-#wb_Copyrights
-{
-   top: auto !important;
-   bottom: 20px;
-}
